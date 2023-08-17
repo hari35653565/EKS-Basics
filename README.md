@@ -6,3 +6,4 @@ https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/setting-up-ek
 https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html
 https://docs.aws.amazon.com/eks/latest/userguide/eksctl.html
 https://newrelic.awsworkshop.io/920_cleanup/eksctl/
+https://www.youtube.com/watch?v=01FEPUeo2xQ
